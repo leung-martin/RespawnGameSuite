@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="terminal_black">#FF000000</color>
+    <color name="terminal_green">#FF00FF41</color>
+    <!-- Olive drab behind the launcher badge, sampled from the artwork. -->
+    <color name="ic_launcher_background">#FF4D4B3E</color>
+</resources>

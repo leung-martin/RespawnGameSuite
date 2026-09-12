@@ -1,0 +1,28 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio / IDE
+/.idea
+/.kotlin
+
+# Round music is not distributed with the source: the tracks are large and are
+# whatever the host happens to own. Drop your own into assets/music at build
+# time — the app lists the folder at runtime. See README.md.
+/app/src/main/assets/music/*.mp3
+
+# Local staging copies of the shipped audio.
+/Music
+/SFX

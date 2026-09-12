@@ -1,0 +1,9 @@
+* text=auto
+
+# Must keep LF or it will not run on a Unix build host.
+gradlew text eol=lf
+*.bat text eol=crlf
+
+*.png binary
+*.mp3 binary
+*.ttf binary
